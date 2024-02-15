@@ -1,0 +1,10 @@
+B) Une collection ordonnée immuable
+C) (element,)
+B) Non, les tuples sont immuables
+A) En utilisant son index entre crochets []
+A) Avec le symbole +
+B) Non, mais on peut créer un nouveau tuple sans certains éléments
+A) En utilisant la fonction tuple()
+B) 4
+B) En utilisant le mot-clé in
+C) Oui, sans restriction sur les types de données
