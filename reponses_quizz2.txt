@@ -1,0 +1,14 @@
+Réponses
+Chaînes de caractères
+B) "Python" in "J'apprends Python"
+A) .capitalize()
+B) "data"[-1]
+Listes
+B) [1, 2, 3, 4].append(5)
+A) [1, 2, 3, 4].remove(2)
+A) [1, 2, 3, 4].index(3)
+Opérateurs
+B) //
+B) 25
+A) a != b
+C) Les opérateurs arithmétiques (+, -, *, /) ont la priorité la plus élevée.
