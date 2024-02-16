@@ -1,0 +1,69 @@
+Question 1: Qu'est-ce qu'un ensemble en Python ?
+
+A) Une collection ordonnée d'éléments qui peuvent être modifiés
+B) Une collection non ordonnée d'éléments uniques
+C) Une séquence d'éléments accessibles par des indices
+D) Un type de données pour stocker des paires clé-valeur
+
+Question 2: Comment créer un ensemble vide en Python ?
+
+A) set()
+B) {}
+C) []
+D) ()
+
+Question 3: Quelle est la particularité des éléments d'un ensemble en Python ?
+
+A) Ils peuvent être de types différents dans le même ensemble
+B) Ils sont toujours ordonnés
+C) Ils peuvent être modifiés individuellement
+D) Ils doivent être immuables (non modifiables)
+
+Question 4: Comment ajouter un élément à un ensemble en Python ?
+
+A) .append(element)
+B) .add(element)
+C) .insert(index, element)
+D) .push(element)
+
+Question 5: Quel est le résultat de l'opération suivante: set([1, 2, 2, 3, 4, 4, 4]) ?
+
+A) [1, 2, 3, 4]
+B) {1, 2, 3, 4}
+C) (1, 2, 2, 3, 4, 4, 4)
+D) TypeError
+
+Question 6: Quelle méthode permet de supprimer un élément d'un ensemble, sans lever d'erreur si l'élément n'existe pas ?
+
+A) .remove(element)
+B) .discard(element)
+C) .delete(element)
+D) .pop(element)
+
+Question 7: Comment trouver l'intersection de deux ensembles set1 et set2 en Python ?
+
+A) set1.intersection(set2)
+B) set1 & set2
+C) set1 - set2
+D) A) et B) sont correctes
+
+Question 8: Quel est le résultat de l'opération suivante: set('banana') ?
+
+A) {'b', 'a', 'n'}
+B) {'banana'}
+C) {'b', 'a', 'n', 'a'}
+D) {'b', 'n', 'a'}
+
+Question 9: Comment vérifier si un ensemble set1 est un sous-ensemble d'un autre ensemble set2 ?
+
+A) set1.issubset(set2)
+B) set1 <= set2
+C) set1 < set2
+D) B) et C) sont correctes
+
+Question 10: Quelle méthode permet de vider complètement un ensemble ?
+
+A) .empty()
+B) .clear()
+C) .reset()
+D) .wipe()
