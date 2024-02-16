@@ -1,0 +1,69 @@
+Question 1: Quelle est la syntaxe correcte pour créer un dictionnaire vide en Python?
+
+A) dict = ()
+B) dict = []
+C) dict = {}
+D) dict = set()
+
+Question 2: Comment accède-t-on à la valeur associée à une clé dans un dictionnaire?
+
+A) dict['clé']
+B) dict.get('clé')
+C) A et B sont correctes
+D) dict(clé)
+
+Question 3: Quelle méthode permet d'ajouter une paire clé-valeur dans un dictionnaire?
+
+A) dict.add(clé, valeur)
+B) dict[clé] = valeur
+C) dict.append(clé: valeur)
+D) dict.insert(clé, valeur)
+
+Question 4: Qu'arrive-t-il si on accède à une clé qui n'existe pas dans le dictionnaire avec dict['clé']?
+
+A) Retourne None
+B) Retourne une valeur par défaut
+C) Lève une exception KeyError
+D) Crée automatiquement la clé
+
+Question 5: Quelle méthode permet de supprimer une paire clé-valeur d'un dictionnaire?
+
+A) pop(clé)
+B) remove(clé)
+C) delete(clé)
+D) discard(clé)
+
+Question 6: Comment peut-on obtenir la liste de toutes les clés d'un dictionnaire?
+
+A) dict.keys()
+B) dict.values()
+C) dict.items()
+D) dict.clés()
+
+Question 7: Quelle expression permet de vérifier si une clé se trouve dans un dictionnaire?
+
+A) clé in dict
+B) dict.contains(clé)
+C) dict.has_key(clé)
+D) clé.exists(dict)
+
+Question 8: Quelle méthode renvoie une liste des valeurs dans un dictionnaire?
+
+A) getValues()
+B) values()
+C) listValues()
+D) valueList()
+
+Question 9: Comment fusionner deux dictionnaires en Python?
+
+A) dict1.update(dict2)
+B) dict1 + dict2
+C) merge(dict1, dict2)
+D) dict1.concat(dict2)
+
+Question 10: Quelle est la particularité d'une clé dans un dictionnaire Python?
+
+A) Elle peut être modifiée après sa création
+B) Elle peut être de n'importe quel type mutable
+C) Elle doit être unique dans le dictionnaire
+D) Elle peut être dupliquée si les valeurs sont différentes
