@@ -1,0 +1,19 @@
+Réponse 1: C) dict = {}
+
+Réponse 2: C) A et B sont correctes
+
+Réponse 3: B) dict[clé] = valeur
+
+Réponse 4: C) Lève une exception KeyError
+
+Réponse 5: A) pop(clé)
+
+Réponse 6: A) dict.keys()
+
+Réponse 7: A) clé in dict
+
+Réponse 8: B) values()
+
+Réponse 9: A) dict1.update(dict2)
+
+Réponse 10: C) Elle doit être unique dans le dictionnaire
